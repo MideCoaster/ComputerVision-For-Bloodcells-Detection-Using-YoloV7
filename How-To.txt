@@ -1,0 +1,6 @@
+Welcome to my Computer Vision for Blood Cells Detection using YOLOv7 repository! To see the code in action, please follow these steps:
+
+Clone the repository to your local machine (code availabe in notebook).
+Open the 'YOLOv7-For-Bloodcells-Detection.ipynb' notebook in Jupyter Notebook or Google Colab.
+Configure the file paths in the code to match the location of the dataset on your computer.
+Run the code and see the YOLOv7 model in action, detecting blood cells in real-time! Enjoy!
