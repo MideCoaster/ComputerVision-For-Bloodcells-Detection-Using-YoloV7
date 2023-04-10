@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/My-AI-Project/dataset/train.txt
+val: /content/drive/MyDrive/My-AI-Project/dataset/val.txt
+test: /content/drive/MyDrive/My-AI-Project/dataset/test.txt
+
+# number of classes
+nc: 3
+
+# class names
+names:  ['Plateletes', 'RBC', 'WBC']
